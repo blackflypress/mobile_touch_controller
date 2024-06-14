@@ -2,7 +2,7 @@
 // Mobile Controller v.2.0
 // Coded by Loroko 
 // Created: 6/8/2024
-// Last Updated: 6/10/2024
+// Last Updated: 6/13/2024
 // blackflypress.com 
 
 const tapThreshold = 250;
